@@ -1,0 +1,23 @@
+feature,coefficient
+n_months_delayed,0.8475
+max_delay,0.2968
+limit_bal,-0.2333
+pay_2,-0.1495
+pay_3,-0.1316
+pay_5,-0.1192
+education_label_Others,-0.119
+pay_amt2,-0.1076
+pay_amt1,-0.1034
+delay_trend,0.1029
+pay_4,-0.0938
+avg_pay_ratio,-0.0796
+marriage_label_Single,-0.0743
+sex_label_Male,0.069
+utilization,0.0662
+bill_amt1,0.0624
+pay_1,0.057
+pay_6,-0.0485
+age,0.042
+education_label_High school,-0.0229
+education_label_University,0.0136
+marriage_label_Others,-0.0039

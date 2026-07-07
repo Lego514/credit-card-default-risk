@@ -1,0 +1,4 @@
+payment_segment,customers,pct_of_book,default_rate_pct,pct_of_all_defaults,avg_credit_limit,avg_utilization
+1. On-time / revolving,19931,66.4,11.71,35.2,187259.0,0.406
+2. Short delays (1-2 months),8876,29.6,40.02,53.5,135113.0,0.438
+3. Serious delinquency (3+ months),1193,4.0,62.87,11.3,77955.0,0.589

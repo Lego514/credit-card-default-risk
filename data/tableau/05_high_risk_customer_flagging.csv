@@ -1,0 +1,4 @@
+risk_tier,customers,pct_of_book,default_rate_pct,pct_of_all_defaults
+1. High,3839,12.8,50.98,29.5
+2. Medium,11607,38.7,26.92,47.1
+3. Low,14554,48.5,10.68,23.4

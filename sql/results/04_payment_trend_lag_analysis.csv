@@ -1,0 +1,4 @@
+repayment_trend,customers,default_rate_pct
+0 worsening transitions,17175,15.13
+1-2 worsening transitions,12547,30.93
+3+ worsening transitions,278,56.47

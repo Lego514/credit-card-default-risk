@@ -1,0 +1,18 @@
+age_bracket,education_label,customers,avg_credit_limit,default_rate_pct
+55+,University,344,150087.0,30.23
+18-24,High school,315,50413.0,29.84
+18-24,University,1610,62727.0,27.95
+55+,Graduate school,258,255736.0,26.36
+45-54,High school,1323,122457.0,25.77
+18-24,Graduate school,720,61042.0,25.42
+45-54,University,1791,155760.0,25.18
+35-44,High school,1581,142820.0,24.67
+55+,High school,440,121182.0,24.55
+25-34,High school,1258,131351.0,24.17
+35-44,University,4297,169402.0,22.74
+25-34,University,5988,150932.0,22.51
+45-54,Graduate school,1028,256138.0,20.72
+35-44,Graduate school,3003,254332.0,19.71
+25-34,Graduate school,5576,200348.0,17.58
+35-44,Others,137,205255.0,8.76
+25-34,Others,189,181799.0,4.76
