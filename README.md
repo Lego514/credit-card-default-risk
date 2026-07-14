@@ -2,7 +2,7 @@
 
 **Portfolio risk analytics on 30,000 credit card customers — PostgreSQL-compatible SQL (window functions, CTEs), Python (pandas, scikit-learn), explainable ML (XGBoost + SHAP), and an LLM layer that drafts the weekly risk memo.**
 
-[**View Live Dashboard on Tableau Public →**](DASHBOARD_LINK_HERE)
+[**View Live Dashboard on Tableau Public →**](https://public.tableau.com/app/profile/lego.li/viz/credit_card_dashboard_17840541754490/CreditCardDefaultRisk30000CustomersUCITaiwan2005)
 
 ## Business Question
 
